@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_like"
+        android:title="Favourite"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/action_starred"
+        android:title="Starred"
+        android:checkable="true" />
+</menu>
